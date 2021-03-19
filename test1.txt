@@ -1,0 +1,3 @@
+Hello Ganesh
+How are you ?
+How is going your devops traning.
